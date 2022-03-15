@@ -19,7 +19,7 @@
     "dataobject-parser": "^1.2.1",
     "generate-schema": "^2.6.0",
     "jsonpath": "^1.0.2",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "raven-js": "^3.27.2",
     "url-join": "^4.0.1",
     "vue": "^2.6.10",
